@@ -1,0 +1,17 @@
+{
+    "name": "zoomyboy/init-icheck",
+    "require": {
+        "lionel/icheck": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Philipp Lang",
+            "email": "pille@zoomyboy.de"
+        }
+    ],
+	"autoload" {
+		"psr-4": {
+			"Zoomyboy\\InitIcheck\\": "src/"
+		}
+	}	
+}
