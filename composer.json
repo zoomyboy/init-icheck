@@ -9,7 +9,7 @@
             "email": "pille@zoomyboy.de"
         }
     ],
-	"autoload" {
+	"autoload": {
 		"psr-4": {
 			"Zoomyboy\\InitIcheck\\": "src/"
 		}
