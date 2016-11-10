@@ -1,8 +1,6 @@
 {
     "name": "zoomyboy/init-icheck",
-    "require": {
-        "lionel/icheck": "^2.0"
-    },
+    "require": { },
     "authors": [
         {
             "name": "Philipp Lang",
