@@ -1,15 +1,15 @@
 {
-    "name": "zoomyboy/init-icheck",
+    "name": "aweos/init-icheck",
     "require": { },
     "authors": [
         {
             "name": "Philipp Lang",
-            "email": "pille@zoomyboy.de"
+            "email": "philipp@aweos.de"
         }
     ],
 	"autoload": {
 		"psr-4": {
-			"Zoomyboy\\InitIcheck\\": "src/"
+			"Aweos\\InitIcheck\\": "src/"
 		}
 	}	
 }
